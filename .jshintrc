@@ -1,8 +1,9 @@
 {
-    "browserify": true,
-    "browser": true,
-    "debug": false,
-    "strict": true,
-    "unused": true,
-    "devel": true
+  "browserify": true,
+  "browser": true,
+  "debug": false,
+  "strict": true,
+  "unused": true,
+  "devel": true,
+  "mocha": true
 }
