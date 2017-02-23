@@ -1,6 +1,6 @@
 {
   "name": "markovian",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The simplest way to create a markovian process using markov chains.",
   "main": "index.js",
   "author": "",
@@ -8,5 +8,9 @@
   "dependencies": {
     "lodash": "^4.17.4"
   },
-  "keywords": ["markov", "chain", "generative"]
+  "keywords": [
+    "markov",
+    "chain",
+    "generative"
+  ]
 }
