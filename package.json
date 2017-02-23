@@ -1,6 +1,6 @@
 {
   "name": "markovian",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The simplest way to create a markovian process using markov chains.",
   "main": "index.js",
   "author": "",
